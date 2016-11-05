@@ -122,6 +122,11 @@ enum class key_code : uint32_t {
   keypad_equal_sign = kHIDUsage_KeypadEqualSign,
   keypad_comma = kHIDUsage_KeypadComma,
 
+  i = kHIDUsage_KeyboardI,
+  j = kHIDUsage_KeyboardJ,
+  k = kHIDUsage_KeyboardK,
+  l = kHIDUsage_KeyboardL,
+
   home = kHIDUsage_KeyboardHome,
   page_up = kHIDUsage_KeyboardPageUp,
   delete_forward = kHIDUsage_KeyboardDeleteForward,
